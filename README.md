@@ -1,4 +1,4 @@
-# Hi there, I'm G-Hensley 👋
+# Hi there, I'm Gavin Hensley 👋
 
 ## About Me
 I'm a passionate developer who loves creating and exploring new technologies. My current goal is to become part of a team as my first job for full stack development!
