@@ -7,7 +7,6 @@ I'm a passionate developer who loves creating and exploring new technologies. My
 - **Languages**: JavaScript, Python, TypeScript, Java, C++
 - **Frameworks**: React, Node.js, Express
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **Cloud**: AWS, Azure, Google Cloud
 - **Tools**: Git
 
 ## Get in Touch
