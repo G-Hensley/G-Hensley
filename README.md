@@ -1,6 +1,6 @@
 # 👋🏼 Hello, I'm Gavin Hensley
 
-## 🧑🏻‍💻 Full Stack Developer | Front-End Specialist | Software Engineering Student 🏫
+## 🧑🏻‍💻 Full Stack Engineer | Front-End Specialist | Software Engineering Student 🏫
 
 ### About Me
 
