@@ -4,7 +4,7 @@
 
 ### About Me
 
-I’m a dedicated full stack developer with a passion for creating responsive, user-friendly web applications. Currently pursuing a B.S. in Software Engineering at Western Governors University (expected graduation May 2025), I have hands-on experience with both front-end and back-end technologies. My goal is to join a collaborative team where I can contribute to innovative projects and continue learning new technologies. I am always working on building my skills, either by building projects, completing code challenges, working towards certificates and certifications, or working on college classes.
+I’m a dedicated full stack engineer with a passion for creating responsive, user-friendly web applications. Currently pursuing a B.S. in Software Engineering at Western Governors University (expected graduation May 2025), I have hands-on experience with both front-end and back-end technologies. My goal is to join a collaborative team where I can contribute to innovative projects and continue learning new technologies. I am always working on building my skills, either by building projects, completing code challenges, working towards certificates and certifications, or working on college classes.
 
 ### 🛠️ Skills
 
