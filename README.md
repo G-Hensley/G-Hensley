@@ -1,4 +1,4 @@
-<h1 style="text-align:center">Gavin Hensley | Full Stack Engineer 🖥️</h1> 
+<h1 align="center">Gavin Hensley | Full Stack Engineer 🖥️</h1> 
 
 ### Hi there! I'm **Gavin Hensley**, a passionate **web developer** and **tech enthusiast**. I enjoy creating beautiful, functional websites and applications that make people's lives easier.
 
