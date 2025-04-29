@@ -1,6 +1,6 @@
-<h1 align="center">Gavin Hensley | Full Stack Engineer 🖥️</h1> 
+<h1 align="center">👋 Greetings! I'm Gavin Hensley</h1>
 
-### Hi there! I'm **Gavin Hensley**, a passionate **web developer** and **tech enthusiast**. I enjoy creating beautiful, functional websites and applications that make people's lives easier.
+<h3 align="center"">Full Stack Engineer 🖥️ | Web Designer 🎨 | Chess Player ♟️| WGU SWE Student 🎓 | Gamer 🎮 | SCCTC Board Member 🏫 | AWS Cloud Practitioner ☁️</h3>
 
 ---
 
@@ -75,6 +75,7 @@
 ## 🚀 Fun Facts
 
 - I built my portfolio site from scratch! 💻
+- I taught myself Java in less than a week! ☕
 - When I'm not coding, you can find me exploring the outdoors, reading, or working on side projects. 🌱
 
 ---
