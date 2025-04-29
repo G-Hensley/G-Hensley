@@ -1,14 +1,15 @@
-# Gavin Hensley | Full Stack Engineer 🖥️ 
+<h1 style="text-align:center">Gavin Hensley | Full Stack Engineer 🖥️</h1> 
 
-Hi there! I'm **Gavin Hensley**, a passionate **web developer** and **tech enthusiast**. I enjoy creating beautiful, functional websites and applications that make people's lives easier.
+### Hi there! I'm **Gavin Hensley**, a passionate **web developer** and **tech enthusiast**. I enjoy creating beautiful, functional websites and applications that make people's lives easier.
 
 ---
 
 ## 🚀 What I Do
 
-- **Web Development**: I specialize in building **responsive websites** and **web apps** that are both **user-friendly** and **fast**.
-- **Full-Stack Development**: From designing the frontend with **HTML**, **CSS**, and **JavaScript**, to building the backend with **Node.js**, **Express**, and **Databases**.
-- **Web Design**: I use **Figma** and **Adobe Illustrator** to craft eye-catching websites.
+- Build responsive, high-performance websites and web apps with modern frameworks.
+- Develop full stack solutions, from elegant frontends to robust backends and **APIs**.
+- Design visually appealing interfaces utilizing tools like **Figma** and **Adobe Illustrator**.
+- Collaborate with others to build secure user-centric solutions.
 
 ---
 
