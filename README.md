@@ -1,64 +1,81 @@
-# 👋🏼 Hello, I'm Gavin Hensley
+# Gavin Hensley | Full Stack Engineer 🖥️ 
 
-## 🧑🏻‍💻 Full Stack Engineer | Front-End Specialist | Software Engineering Student 🏫
+Hi there! I'm **Gavin Hensley**, a passionate **web developer** and **tech enthusiast**. I enjoy creating beautiful, functional websites and applications that make people's lives easier.
 
-### About Me
+---
 
-I’m a dedicated full stack engineer with a passion for creating responsive, user-friendly web applications. Currently pursuing a B.S. in Software Engineering at Western Governors University (expected graduation May 2025), I have hands-on experience with both front-end and back-end technologies. My goal is to join a collaborative team where I can contribute to innovative projects and continue learning new technologies. I am always working on building my skills, either by building projects, completing code challenges, working towards certificates and certifications, or working on college classes.
+## 🚀 What I Do
 
-### 🛠️ Skills
+- **Web Development**: I specialize in building **responsive websites** and **web apps** that are both **user-friendly** and **fast**.
+- **Full-Stack Development**: From designing the frontend with **HTML**, **CSS**, and **JavaScript**, to building the backend with **Node.js**, **Express**, and **Databases**.
+- **Web Design**: I use **Figma** and **Adobe Illustrator** to craft eye-catching websites.
 
-- **Programming Languages**: JavaScript, TypeScript, Python, SQL  
-- **Front-End Technologies**: HTML, CSS, React.js, TailwindCSS, Redux, Context API, Next.js, SCSS, Bootstrap, Framer Motion  
-- **Back-End Technologies**: Node.js, Express, PostgreSQL, MySQL, REST APIs, GraphQL, MongoDB, Prisma  
-- **Tools**: Git, GitHub, GitLab, Postman, VS Code, Figma, Adobe Illustrator, Vercel, Heroku, Webpack  
-- **Methodologies**: Agile, Scrum, Kanban  
-- **Other**: UI/UX Principles, Accessibility (WCAG), SEO, Mobile-First Development  
+---
 
-### 💡Projects
+## 🔧 Tools & Technologies
 
-#### Portfolio Website | React.js | TypeScript | CSS | GraphQL | Express | Heroku | Vercel | Prisma | PostgreSQL  
-- Developed a responsive personal portfolio to showcase projects and skills, optimized for all devices.  
-- Deployed backend on Heroku and frontend on Vercel, achieving 99.9% uptime.
+### Front-End Development
+<p>
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/SCSS-%23C76494.svg?style=flat-square&logo=sass&logoColor=white" alt="SCSS">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-%2300D8FF.svg?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+</p>
 
-#### Inventory Management System | React.js | TypeScript | CSS | PostgreSQL | Node.js | Express  
-- Built a full stack application with a responsive table UI, enabling real-time updates for 500+ simulated inventory items.  
-- Designed a PostgreSQL database schema and integrated it with a Node.js/Express backend, reducing query response time by 25%.  
+### Back-End Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-%2361DAFB.svg?style=flat-square&logo=node.js&logoColor=black" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-%23404d59.svg?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/REST%20API-%2300f0ff.svg?style=flat-square&logo=api&logoColor=white" alt="REST API">
+  <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL">
+</p>
 
-#### Expense Tracker | React | TypeScript | Next.js | GraphQL | MongoDB | Node.js | Express | Vercel | Heroku  
-- Collaborating on a responsive expense tracking app using Next.js and TailwindCSS for an intuitive UI across devices.  
-- Integrated MongoDB with GraphQL for efficient data retrieval, supporting up to 1,000 transactions per user in real time.  
-- Deploying on Vercel (frontend) and Heroku (backend), designed for 500+ users with a 2-second page load time.  
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</p>
 
-### 🏢 Experience
+### Tools & Miscellaneous
+<p>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab">
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Jest-%23C21325.svg?style=flat-square&logo=jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/CI%2FCD-%2300E5FF.svg?style=flat-square&logo=circleci&logoColor=white" alt="CI/CD">
+</p>
 
-#### Full Stack Developer | Freelance | Remote | October 2024 – Present  
-- Designed and developed a portfolio website with HTML, JavaScript, and CSS, increasing visibility by 30%.  
-- Built a full stack inventory tracking system using SQL, Node.js, Express, React.js, and TypeScript in 3 days.  
-- Optimized previous projects, improving performance by 50% for specific applications.  
+---
 
-#### Tier 2 Technical Support Specialist | Concentrix | July 2023 – October 2024  
-- Collaborated with engineering teams to resolve complex SaaS issues (e.g., iCloud, Apple ID), maintaining a 90%+ resolution rating.  
-- Resolved macOS and iOS system glitches, reducing customer-reported issues by 15%.  
-- Mentored over 70 Tier 1 specialists, enhancing team technical skills.  
-- Achieved a 96% customer satisfaction rating with 100% compliance to standards.  
+## 📜 Certifications
+<p>
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner">
+  <img src="https://img.shields.io/badge/freeCodeCamp%20Responsive%20Web%20Design-%23323330.svg?style=flat-square&logo=freecodecamp&logoColor=green" alt="freeCodeCamp Responsive Web Design">
+  <img src="https://img.shields.io/badge/freeCodeCamp%20JavaScript%20Algorithms%20and%20Data%20Structures-%23323330.svg?style=flat-square&logo=freecodecamp&logoColor=green" alt="freeCodeCamp JavaScript Algorithms">
+  <img src="https://img.shields.io/badge/freeCodeCamp%20Back%20End%20Development%20and%20APIs-%23323330.svg?style=flat-square&logo=freecodecamp&logoColor=green" alt="freeCodeCamp Back-End Development & APIs">
+</p>
 
-### 🎓 Education
+---
 
-- **Bachelor of Science in Software Engineering**  
-  Western Governors University | February 2025 – Expected Graduation May 2025  
-  *Relevant Coursework*: Version Control, Web Development Foundations, Scripting and Programming, Data Structures and Algorithms, Python, Java, Data Management, Front-End Web Development  
+## 🔗 Connect with Me
 
-### 🏅 Certifications
+- [LinkedIn](https://www.linkedin.com/in/g-hensley)
+- [Portfolio](https://gavin-hensley.tech)
 
-- **WGU**: Front-End Developer
-- **FreeCodeCamp**: Responsive Web Design, JavaScript Algorithms and Data Structures, Back End Development and APIs  
-- **Sololearn**: Introduction to Python, Intermediate Python, Python Data Structures, Introduction to Java  
+---
 
-### Contact
+## 🚀 Fun Facts
 
-- **Email**: gavinhensley@protonmail.com  
-- **LinkedIn**: [Gavin Hensley](https://www.linkedin.com/in/g-hensley/)  
-- **GitHub**: [G-Hensley](https://github.com/G-Hensley)  
-- **Portfolio**: [gavinhensley.dev](https://gavinhensley.dev)  
-- **Phone**: 606.939.6944  
+- I built my portfolio site from scratch! 💻
+- When I'm not coding, you can find me exploring the outdoors, reading, or working on side projects. 🌱
+
+---
+
+Thanks for visiting my profile! Let's build something amazing together! 🌍✨
