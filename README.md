@@ -7,10 +7,22 @@
 
 ## 🚀 What I Do
 
-- Build responsive, high-performance websites and web apps with modern frameworks.
-- Develop full stack solutions, from elegant frontends to robust backends and **APIs**.
-- Design visually appealing interfaces utilizing tools like **Figma** and **Adobe Illustrator**.
-- Collaborate with others to build secure user-centric solutions.
+- 🧱 Build responsive, high-performance websites and web apps with modern front-end frameworks.
+- 🛠️ Develop full stack solutions using JavaScript, TypeScript, Node.js, and Spring Boot.
+- 🎨 Design accessible, beautiful UIs in Figma and Adobe Illustrator.
+- 🔐 Implement secure, scalable backends with REST APIs, GraphQL, and databases.
+- 🤝 Collaborate with other devs on real-world, GitHub-hosted projects.
+
+---
+
+## 💼 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [🌐 CodeSphere](https://github.com/Christin-paige/codesphere) | A collaborative social media platform built by devs, for devs — think GitHub meets Twitter. Currently in active development with a team. | Next.js, TailwindCSS, React, TypeScript, Node.js, Supabase, CI/CD |
+| [🎨 My Portfolio](https://gavin-hensley.tech) | Fully custom-designed personal portfolio site hosted on AWS with CI/CD workflows, file uploads, admin dashboard, and responsive design. | React, TailwindCSS, TypeScript |
+| [🛡️ Cybersecurity Portfolio](https://brendahensley.tech) | Built for my wife’s cybersecurity journey — includes certs, project demos, and responsive layout. Emphasis on secure, professional presentation. | HTML, CSS, JavaScript |
+
 
 ---
 
