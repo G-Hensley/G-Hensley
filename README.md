@@ -58,6 +58,11 @@
 
 ---
 
+## 🖥️ Language Statistics
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Hensley&layout=compact&theme=tokyonight)
+
+---
+
 ## 📜 Certifications
 <p>
   <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner">
@@ -83,4 +88,8 @@
 
 ---
 
+## 👀 Profile Visitors
+![Visitor Count](https://profile-counter.glitch.me/G-Hensley/count.svg)
+
+---
 Thanks for visiting my profile! Let's build something amazing together! 🌍✨
