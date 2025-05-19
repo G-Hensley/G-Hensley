@@ -1,8 +1,7 @@
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=B24CF7&center=true&width=435&lines=Full-Stack+Engineer+%F0%9F%96%A5;WGU+SWE+Student+%F0%9F%8E%93;Chess+Player+%E2%99%9F%EF%B8%8F;Web+Designer+%F0%9F%8E%A8;Gamer+%F0%9F%8E%AE;SCCTC+Board+Member+%F0%9F%8F%AB;AWS+Cloud+Practitioner+%E2%98%81%EF%B8%8F;CompTIA+Project%2B+%F0%9F%93%8B)](https://git.io/typing-svg)<div align="center">
   <img alt="Header Image" src="./github-header-image.png" />
 </div>
 
-<h3 align="center"">Full-Stack Engineer 🖥️ | Web Designer 🎨 | Chess Player ♟️| WGU SWE Student 🎓 | Gamer 🎮 | SCCTC Board Member 🏫 | AWS Cloud Practitioner ☁️</h3>
 
 ---
 
