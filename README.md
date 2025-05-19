@@ -90,18 +90,40 @@
 
 ---
 
-## 🔗 Connect with Me
+## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/g-hensley)
-- [Portfolio](https://gavin-hensley.tech)
+<p align="center">
+  <a href="https://www.linkedin.com/in/g-hensley" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  <a href="https://gavin-hensley.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/>
+  </a>
+  <a href="mailto:gavinhensley@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white" height="30"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 Fun Facts
+## 🎯 2025 Goals
 
-- I built my portfolio site from scratch! 💻
-- I taught myself Java in less than a week! ☕
-- When I'm not coding, you can find me exploring the outdoors, reading, or working on side projects. 🌱
+- ✅ Land my first full-time software engineering role
+- 🔨 Launch a SaaS side project or monetized tool
+- 🌐 Contribute to 3+ open-source projects
+- 📜 Earn more certs
+- 🧪 Add full test coverage (Jest/Cypress) to all personal projects
+- ✍️ Start writing dev blogs on my site
+
+---
+
+## 🎉 Fun Facts
+
+- 🧠 I taught myself Java in under a week. (Not advised. 😅)
+- 🌲 I escape screen time by having fun outdoors.
+- ♟️ I play chess competitively... against bots. I’m working on it.
+- 🧪 I enjoy writing tests — seriously.
+
 
 ---
 
@@ -113,4 +135,9 @@
 ![Visitor Count](https://profile-counter.glitch.me/G-Hensley/count.svg)
 
 ---
-Thanks for visiting my profile! Let's build something amazing together! 🌍✨
+
+<p align="center">
+  <b>Thanks for stopping by!</b>  
+  <br/>Let’s build something amazing together 🚀
+</p>
+
