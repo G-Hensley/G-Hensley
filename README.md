@@ -136,6 +136,12 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+![GitHub Snake](https://github.com/G-Hensley/G-Hensley/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 <p align="center">
   <b>Thanks for stopping by!</b>  
   <br/>Let’s build something amazing together 🚀
