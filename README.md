@@ -1,4 +1,4 @@
-<h1 align="center">👋 Greetings! I'm Gavin Hensley 👽</h1>
+![Header](./[github-header-image.png])
 
 <h3 align="center"">Full Stack Engineer 🖥️ | Web Designer 🎨 | Chess Player ♟️| WGU SWE Student 🎓 | Gamer 🎮 | SCCTC Board Member 🏫 | AWS Cloud Practitioner ☁️</h3>
 
