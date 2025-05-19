@@ -138,7 +138,7 @@
 
 ## 🐍 Contribution Snake
 
-![GitHub Snake](https://github.com/G-Hensley/G-Hensley/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/G-Hensley/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
