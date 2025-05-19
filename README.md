@@ -1,4 +1,4 @@
-![Header](./[github-header-image.png])
+![Header](./github-header-image.png)
 
 <h3 align="center"">Full Stack Engineer 🖥️ | Web Designer 🎨 | Chess Player ♟️| WGU SWE Student 🎓 | Gamer 🎮 | SCCTC Board Member 🏫 | AWS Cloud Practitioner ☁️</h3>
 
