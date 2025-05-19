@@ -16,11 +16,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: G-Hensley
-          snake_color: '#F6019D'           # neon pink/magenta
-          background_color: '#0D0D0D'      # deep black
-          grid_color: '#1A1A1A'            # muted dark gray
           outputs: |
-            ./dist/github-contribution-grid-snake.svg
+            ./dist/github-contribution-grid-snake-dark.svg
+  
 
       - name: Push the SVG
         uses: crazy-max/ghaction-github-pages@v3
