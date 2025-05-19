@@ -1,4 +1,5 @@
-<img alt="Header Image" src="./github-header-image.png" />
+<div align="center">
+  <img alt="Header Image" src="./github-header-image.png" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=B24CF7&width=435&lines=Full-Stack+Engineer+%F0%9F%96%A5;WGU+SWE+Student+%F0%9F%8E%93;Chess+Player+%E2%99%9F%EF%B8%8F;Web+Designer+%F0%9F%8E%A8;Gamer+%F0%9F%8E%AE;SCCTC+Board+Member+%F0%9F%8F%AB;AWS+Cloud+Practitioner+%E2%98%81%EF%B8%8F;CompTIA+Project%2B+%F0%9F%93%8B)](https://git.io/typing-svg)
@@ -15,44 +16,48 @@
 
 ## 🔧 Tools & Technologies
 
-### Front-End Development
-<p>
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/SCSS-%23C76494.svg?style=flat-square&logo=sass&logoColor=white" alt="SCSS">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-%2300D8FF.svg?style=flat-square&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-</p>
+<table>
+  <tr>
+    <th>🌐 Front-End</th>
+    <th>🔧 Back-End</th>
+    <th>🛢️ Databases</th>
+    <th>🛠️ Tools</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="28" /><br />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="28" /><br />
+      <img src="https://img.shields.io/badge/SCSS-C76494?style=flat-square&logo=sass&logoColor=white" height="28" /><br />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="28" /><br />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height="28" /><br />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="28" /><br />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" height="28" /><br />
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="28" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="28" /><br />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="28" /><br />
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" height="28" /><br />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="28" /><br />
+      <img src="https://img.shields.io/badge/REST_API-00f0ff?style=flat-square&logo=api&logoColor=white" height="28" /><br />
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" height="28" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="28" /><br />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="28" /><br />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="28" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="28" /><br />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28" /><br />
+      <img src="https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=gitlab&logoColor=white" height="28" /><br />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="28" /><br />
+      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" height="28" /><br />
+      <img src="https://img.shields.io/badge/CI/CD-00E5FF?style=flat-square&logo=circleci&logoColor=white" height="28" />
+    </td>
+  </tr>
+</table>
 
-### Back-End Development
-<p>
-  <img src="https://img.shields.io/badge/Java-%ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Node.js-%2361DAFB.svg?style=flat-square&logo=node.js&logoColor=black" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-%23404d59.svg?style=flat-square&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/REST%20API-%2300f0ff.svg?style=flat-square&logo=api&logoColor=white" alt="REST API">
-  <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL">
-</p>
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-</p>
-
-### Tools & Miscellaneous
-<p>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab">
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Jest-%23C21325.svg?style=flat-square&logo=jest&logoColor=white" alt="Jest">
-  <img src="https://img.shields.io/badge/CI%2FCD-%2300E5FF.svg?style=flat-square&logo=circleci&logoColor=white" alt="CI/CD">
-</p>
 
 ---
 
