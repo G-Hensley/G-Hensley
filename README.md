@@ -2,7 +2,7 @@
   <img alt="Header Image" src="./github-header-image.png" />
 </div>
 
-<h3 align="center"">Full Stack Engineer 🖥️ | Web Designer 🎨 | Chess Player ♟️| WGU SWE Student 🎓 | Gamer 🎮 | SCCTC Board Member 🏫 | AWS Cloud Practitioner ☁️</h3>
+<h3 align="center"">Full-Stack Engineer 🖥️ | Web Designer 🎨 | Chess Player ♟️| WGU SWE Student 🎓 | Gamer 🎮 | SCCTC Board Member 🏫 | AWS Cloud Practitioner ☁️</h3>
 
 ---
 
