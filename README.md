@@ -96,7 +96,7 @@
   <a href="https://www.linkedin.com/in/g-hensley" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
-  <a href="https://gavin-hensley.tech" target="_blank">
+  <a href="https://gavinhensley.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/>
   </a>
   <a href="mailto:gavinhensley@protonmail.com">
