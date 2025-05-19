@@ -65,10 +65,12 @@
 
 ## 📜 Certifications
 <p>
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner">
-  <img src="https://img.shields.io/badge/freeCodeCamp%20Responsive%20Web%20Design-%23323330.svg?style=flat-square&logo=freecodecamp&logoColor=green" alt="freeCodeCamp Responsive Web Design">
-  <img src="https://img.shields.io/badge/freeCodeCamp%20JavaScript%20Algorithms%20and%20Data%20Structures-%23323330.svg?style=flat-square&logo=freecodecamp&logoColor=green" alt="freeCodeCamp JavaScript Algorithms">
-  <img src="https://img.shields.io/badge/freeCodeCamp%20Back%20End%20Development%20and%20APIs-%23323330.svg?style=flat-square&logo=freecodecamp&logoColor=green" alt="freeCodeCamp Back-End Development & APIs">
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" height="25">
+  <img src="https://img.shields.io/badge/freeCodeCamp%20Responsive%20Web%20Design-%23323330.svg?style=flat-square&logo=freecodecamp&logoColor=green " alt="freeCodeCamp Responsive Web Design" height="25">
+  <img src="https://img.shields.io/badge/freeCodeCamp%20JavaScript%20Algorithms%20and%20Data%20Structures-%23323330.svg?style=flat-square&logo=freecodecamp&logoColor=green" alt="freeCodeCamp JavaScript Algorithms" height="25">
+  <img src="https://img.shields.io/badge/freeCodeCamp%20Back%20End%20Development%20and%20APIs-%23323330.svg?style=flat-square&logo=freecodecamp&logoColor=green" alt="freeCodeCamp Back-End Development & APIs" height="25">
+  <img src="https://img.shields.io/badge/Project+-%23EE352b.svg?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA Project+" height="25">
+  <img src="https://img.shields.io/badge/WGU%20Front%20End%20Developer-%2300204b.svg?style=flat-square&logo=wgu&logoColor=white" alt="WGU Front-End Developer" height="25">
 </p>
 
 ---
