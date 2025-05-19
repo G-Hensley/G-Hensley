@@ -88,6 +88,10 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=G-Hensley&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
 ## 👀 Profile Visitors
 ![Visitor Count](https://profile-counter.glitch.me/G-Hensley/count.svg)
 
