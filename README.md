@@ -139,8 +139,7 @@
 
 ## 🐍 Contribution Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/G-Hensley/G-Hensley/output/github-contribution-grid-snake.svg)
-
+![GitHub Snake](https://raw.githubusercontent.com/G-Hensley/G-Hensley/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
