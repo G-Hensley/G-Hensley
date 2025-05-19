@@ -127,6 +127,7 @@
 
 ---
 
+## 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=G-Hensley&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
@@ -138,7 +139,7 @@
 
 ## 🐍 Contribution Snake
 
-![GitHub Snake](https://github.com/G-Hensley/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/G-Hensley/G-Hensley/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
