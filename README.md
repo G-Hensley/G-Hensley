@@ -21,7 +21,7 @@
 |--------|-------------|------------|
 | [🌐 CodeSphere](https://github.com/Christin-paige/codesphere) | A collaborative social media platform built by devs, for devs — think GitHub meets Twitter. Currently in active development with a team. | Next.js, TailwindCSS, React, TypeScript, Node.js, Supabase, CI/CD |
 | [🎨 My Portfolio](https://gavin-hensley.tech) | Fully custom-designed personal portfolio site hosted on AWS with CI/CD workflows, file uploads, admin dashboard, and responsive design. | React, TailwindCSS, TypeScript |
-| [🛡️ Cybersecurity Portfolio](https://brendahensley.tech) | Built for my wife’s cybersecurity journey — includes certs, project demos, and responsive layout. Emphasis on secure, professional presentation. | HTML, CSS, JavaScript |
+| [🛡️ Cybersecurity Portfolio](https://brendahensley.tech) | Built for my wife’s cybersecurity journey that includes certs, project demos, and responsive layout. Emphasis on secure, professional presentation. | HTML, CSS, JavaScript |
 
 
 ---
