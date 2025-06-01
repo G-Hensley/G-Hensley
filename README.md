@@ -28,12 +28,10 @@
 
 ## 🔧 Tools & Technologies
 
-<table>
+<table align="center">
   <tr>
     <th>🌐 Front-End</th>
     <th>🔧 Back-End</th>
-    <th>🛢️ Databases</th>
-    <th>🛠️ Tools</th>
   </tr>
   <tr>
     <td>
@@ -54,6 +52,16 @@
       <img src="https://img.shields.io/badge/REST_API-00f0ff?style=flat-square&logo=api&logoColor=white" height="28" /><br />
       <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" height="28" />
     </td>
+  </tr>
+</table>
+
+
+<table align="center">
+  <tr>
+    <th>🛢️ Databases</th>
+    <th>🛠️ Tools</th>
+  </tr>
+  <tr>
     <td>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="28" /><br />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="28" /><br />
