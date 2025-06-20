@@ -116,12 +116,12 @@
 
 ## 🎯 2025 Goals
 
-- ✅ Land my first full-time software engineering role
-- 🔨 Launch a SaaS side project or monetized tool
-- 🌐 Contribute to 3+ open-source projects
-- 📜 Earn more certs
-- 🧪 Add full test coverage (Jest/Cypress) to all personal projects
-- ✍️ Start writing dev blogs on my site
+- ✅ Land my first full-time software engineering role.
+- 🔨 Launch a SaaS side project or monetized tool.
+- 🌐 Contribute to 3+ open-source projects.
+- 📜 Earn more certs.
+- 🧪 Add full test coverage (Jest/Cypress) to all personal projects.
+- ✍️ Start writing dev blogs on my site.
 
 ---
 
