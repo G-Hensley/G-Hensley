@@ -130,7 +130,7 @@
 - 🧠 I taught myself Java in under a week
 - 🌲 I escape screen time by having fun outdoors.
 - ♟️ I play chess competitively... against bots. I’m working on it.
-- 🧪 I enjoy writing tests — seriously.
+- 🧪 I enjoy writing tests, seriously.
 
 
 ---
