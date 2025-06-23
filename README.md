@@ -145,18 +145,20 @@
 
 ---
 
-## 🐍 Contribution Snake
+<div align="center">
+  <h2>🐍 Contribution Snake</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/G-Hensley/G-Hensley/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/G-Hensley/G-Hensley/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/G-Hensley/G-Hensley/output/github-snake.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/G-Hensley/G-Hensley/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/G-Hensley/G-Hensley/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/G-Hensley/G-Hensley/output/github-snake.svg" />
+  </picture>
+</div>
 
 ---
 
 <p align="center">
   <b>Thanks for stopping by!</b>  
-  <br/>Let’s build something amazing together 🚀🖥
+  <br/>🚀 Let’s build something amazing together 🚀🖥
 </p>
 
