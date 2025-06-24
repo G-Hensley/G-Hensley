@@ -114,7 +114,7 @@
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2025 Goals & Mission
 
 - ✅ Land my first full-time software engineering role.
 - 🔨 Launch a SaaS side project or monetized tool.
