@@ -8,7 +8,7 @@
 ## 🚀 What I Do
 
 - 🧱 Build responsive, high-performance websites and web apps with modern front-end frameworks.
-- 🛠️ Develop full-stack solutions using JavaScript, TypeScript, Node.js, and Spring Boot.
+- 🛠️ Develop full-stack solutions using JavaScript, TypeScript, Node.js/Express, Next.js, React, and MongoDB.
 - 🎨 Design accessible, beautiful UIs in Figma and Adobe Illustrator.
 - 🔐 Implement secure, scalable backends with REST APIs, GraphQL, and databases.
 - 🤝 Collaborate with other devs on real-world, GitHub-hosted projects.
