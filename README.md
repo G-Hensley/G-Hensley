@@ -136,7 +136,7 @@
 ---
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=G-Hensley&theme=tokyonight)](https://git.io/streak-stats)
+
 
 ---
 
