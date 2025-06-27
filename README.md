@@ -26,7 +26,7 @@
 
 ---
 
-## 🔧 Tools & Technologies
+<h2 align="center">🔧 Tools & Technologies</h2>
 
 <table align="center">
   <tr>
