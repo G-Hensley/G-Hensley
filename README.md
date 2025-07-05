@@ -7,12 +7,12 @@
 
 <h2 align='center'>🚀 What I Do 🖥️</h2>
 
-<div align='center'>
-  <p>🧱 Build responsive, high-performance websites and web apps with modern front-end frameworks.</p>
-  <p>🛠️ Develop full-stack solutions using JavaScript, TypeScript, Node.js/Express, Next.js, React, MongoDB, & SQL.</p>
-  <p>🎨 Design accessible, beautiful UIs in Figma and Adobe Illustrator.</p>
-  <p>🔐 Implement secure, scalable backends with REST APIs, GraphQL, and databases.</p>
-  <p>🤝 Collaborate with other devs on real-world, GitHub-hosted projects.</p>
+<div align='left'>
+  <p width='50%' align='left'>🧱 Build responsive, high-performance websites and web apps with modern front-end frameworks.<br />
+  🛠️ Develop full-stack solutions using JavaScript, TypeScript, Node.js/Express, Next.js, React, MongoDB, & SQL.<br />
+  🎨 Design accessible, beautiful UIs in Figma and Adobe Illustrator.<br />
+  🔐 Implement secure, scalable backends with REST APIs, GraphQL, and databases.<br />
+  🤝 Collaborate with other devs on real-world, GitHub-hosted projects.</p>
 </div>
 
 ---
