@@ -17,7 +17,7 @@
 
 ---
 
-## 💼 Featured Projects
+<h2 align='center'>💼 Featured Projects</h2>
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
