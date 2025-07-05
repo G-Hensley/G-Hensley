@@ -159,7 +159,7 @@
 ---
 
 <p align="center">
-  <b>Thanks for stopping by!</b>  
+  <b>Thanks for stopping by! 😄👋</b>  
   <br/>🚀 Let’s build something amazing together 🚀
 </p>
 
