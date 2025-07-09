@@ -134,6 +134,7 @@
 - 🌲 I escape screen time by having fun outdoors.
 - ♟️ I play chess competitively... against bots. I’m working on it.
 - 🧪 I enjoy writing tests, seriously.
+- 🏫 Finished my Bachelor's degree in less than 6 months.
 
 
 ---
