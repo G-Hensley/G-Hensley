@@ -144,6 +144,11 @@
 
 ---
 
+## GitHub Stats 📊
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-hensley\&show_icons=true\&theme=tokyonight)
+
+---
+
 ## 👀 Profile Visitors
 ![Visitor Count](https://profile-counter.glitch.me/G-Hensley/count.svg)
 
