@@ -149,11 +149,6 @@
 
 ---
 
-## 👀 Profile Visitors
-![Visitor Count](https://profile-counter.glitch.me/G-Hensley/count.svg)
-
----
-
 <div align="center">
   <h2>🐍 Contribution Snake</h2>
 
