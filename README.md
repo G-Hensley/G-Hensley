@@ -88,8 +88,8 @@
 
 ---
 
-## 📜 Certifications
-<p>
+<h2 align='center'>📜 Certifications</h2>
+<p align='center'>
   <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" height="25">
   <img src="https://img.shields.io/badge/freeCodeCamp%20Responsive%20Web%20Design-%23323330.svg?style=flat-square&logo=freecodecamp&logoColor=green " alt="freeCodeCamp Responsive Web Design" height="25">
   <img src="https://img.shields.io/badge/freeCodeCamp%20JavaScript%20Algorithms%20and%20Data%20Structures-%23323330.svg?style=flat-square&logo=freecodecamp&logoColor=green" alt="freeCodeCamp JavaScript Algorithms" height="25">
