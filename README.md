@@ -83,8 +83,10 @@
 
 ---
 
-## 🖥️ Language Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Hensley&layout=compact&theme=tokyonight)
+<h2 align='center'>🖥️ Language Statistics</h2>
+<div align='center'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=G-Hensley&layout=compact&theme=tokyonight' alt='Most Used Languages' width='40%'></img>
+</div>
 
 ---
 
