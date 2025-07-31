@@ -147,7 +147,7 @@
 ---
 
 ## GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-hensley\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-Hensley\&show_icons=true\&theme=tokyonight)
 
 ---
 
