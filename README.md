@@ -127,6 +127,7 @@
 - 🧪 Add full test coverage (Jest/Cypress) to all personal projects.
 - 🐋 Practice DevOps more.
 - ✍️ Start writing dev blogs on my site.
+- 🕴️Start my own freelancing business.
 
 ---
 
