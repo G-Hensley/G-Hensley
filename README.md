@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=B24CF7&width=435&lines=Full-Stack+Engineer+%F0%9F%96%A5;WGU+SWE+Alumni+%F0%9F%8E%93;Chess+Player+%E2%99%9F%EF%B8%8F;Web+Designer+%F0%9F%8E%A8;Gamer+%F0%9F%8E%AE;SCCTC+Board+Member+%F0%9F%8F%AB;AWS+Cloud+Practitioner+%E2%98%81%EF%B8%8F;CompTIA+Project%2B+%F0%9F%93%8B;Founder+Of+Codaissance%2B+%F0%9F%93%8B)](https://git.io/typing-svg)
 ---
 
-<h2 align='center'>🚀 What I Do 🖥️</h2>
+<h2 align='center'>What I Do 🖥️</h2>
 
 <div align='left'>
   <p width='50%' align='left'>🧱 Build responsive, high-performance websites and web apps with modern front-end frameworks.<br />
