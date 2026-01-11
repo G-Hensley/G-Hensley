@@ -2,19 +2,18 @@
   <img alt="Header Image" src="./github-header-image.png" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=B24CF7&width=435&lines=Full-Stack+Engineer+%F0%9F%96%A5;WGU+SWE+Alumni+%F0%9F%8E%93;Chess+Player+%E2%99%9F%EF%B8%8F;Web+Designer+%F0%9F%8E%A8;Gamer+%F0%9F%8E%AE;SCCTC+Board+Member+%F0%9F%8F%AB;AWS+Cloud+Practitioner+%E2%98%81%EF%B8%8F;CompTIA+Project%2B+%F0%9F%93%8B;Founder+Of+Codaissance%2B+%F0%9F%93%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=B24CF7&width=435&lines=Full-Stack+Engineer+%F0%9F%96%A5;Product+Engineer+%40+APIsec+%F0%9F%94%90;Founder+%40+Codaissance+%F0%9F%9A%80;WGU+SWE+Alumni+%F0%9F%8E%93;AWS+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Building+SaaS+in+Public+%F0%9F%8F%97%EF%B8%8F)](https://git.io/typing-svg)
 ---
 
-<h2 align='center'>What I Do 🖥️</h2>
-
-<p align='center'><b>Full-Stack Software Engineer with 4+ years of development experience</b></p>
+<p align='center'><b>Full-Stack Software Engineer | 4+ years of development experience | B.S. Software Engineering</b></p>
 
 <div align='left'>
-  <p width='50%' align='left'>🧱 Build responsive, high-performance websites and web apps with modern front-end frameworks.<br />
-  🛠️ Develop full-stack solutions using JavaScript, TypeScript, Node.js/Express, Next.js, React, MongoDB, & SQL.<br />
-  🎨 Design accessible, beautiful UIs in Figma and Adobe Illustrator.<br />
-  🔐 Implement secure, scalable backends with REST APIs, GraphQL, and databases.<br />
-  🤝 Collaborate with other devs on real-world, GitHub-hosted projects.</p>
+  <p align='left'>
+  👨‍💻 <b>Product Engineer at <a href="https://apisec.ai">APIsec</a></b> — Building API security solutions and handling 77% of customer integrations<br /><br />
+  🚀 <b>Founder of <a href="https://github.com/codaissance">Codaissance</a></b> — Building SaaS products in public with React, Next.js, and TypeScript<br /><br />
+  🛡️ <b>Co-Founder of TamperTantrum Labs</b> — Making application security accessible for solo devs and startups<br /><br />
+  🎯 <b>What I do:</b> Build fast, accessible, secure web applications. I care about clean architecture, great UX, and shipping products that actually help people.
+  </p>
 </div>
 
 ---
@@ -23,9 +22,10 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🌐 BuiltInPublic](https://github.com/Christin-paige/BuiltInPublic) | A collaborative social media platform built by devs, for devs — think GitHub meets Twitter. Currently in active development with a team. | Next.js, TailwindCSS, React, TypeScript, Node.js, Supabase, CI/CD 
-| [🎨 My Portfolio](https://gavinhensley.dev) | Fully custom-designed personal portfolio site hosted on AWS with CI/CD workflows, file uploads, admin dashboard, and responsive design. | React, TailwindCSS, TypeScript |
-| [🛡️ Cybersecurity Portfolio](https://brendahensley.tech) | Built for my wife’s cybersecurity journey that includes certs, project demos, and responsive layout. Emphasis on secure, professional presentation. | HTML, CSS, JavaScript |
+| [🧠 MindTrace](https://github.com/G-Hensley/mindtrace) | Full-stack MVP for tracking student behavior logs with auth, CRUD, and report generation. 25+ unit tests, >95 Lighthouse scores. | Next.js, TypeScript, Supabase, Vitest, Turborepo |
+| [🌐 BuiltInPublic](https://github.com/Christin-paige/BuiltInPublic) | Social platform for devs to share their coding journey. Co-led backend, built 60% of UI components, improved load times 35%. | Next.js, TypeScript, Supabase, Docker, CI/CD |
+| [🎨 Portfolio](https://gavinhensley.dev) | Custom portfolio with AWS S3 file uploads, admin dashboard, and CI/CD. Modernized 3+ legacy projects, cut load times 30%. | React, TypeScript, Node.js, AWS S3, MongoDB |
+| [💰 Expense Tracker](https://github.com/G-Hensley/expense-tracker) | Full-stack expense tracking with GraphQL API. Designed for 500+ users, <2s load times, 45% reduction in data transfer. | Next.js, GraphQL, MongoDB, Vercel |
 
 
 ---
@@ -63,21 +63,22 @@
 <table align="center">
   <tr>
     <th>🛢️ Databases</th>
-    <th>🛠️ Tools</th>
+    <th>🛠️ Tools & DevOps</th>
   </tr>
   <tr>
     <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="28" /><br />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" height="28" /><br />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="28" /><br />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="28" /><br />
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="28" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="28" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="28" /><br />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28" /><br />
-      <img src="https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=gitlab&logoColor=white" height="28" /><br />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="28" /><br />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="28" /><br />
+      <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" height="28" /><br />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="28" /><br />
-      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" height="28" /><br />
-      <img src="https://img.shields.io/badge/CI/CD-00E5FF?style=flat-square&logo=circleci&logoColor=white" height="28" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" height="28" />
     </td>
   </tr>
 </table>
@@ -137,11 +138,11 @@
 
 ## 🎉 Fun Facts
 
-- 🧠 I taught myself Java in under a week
-- 🌲 I escape screen time by having fun outdoors.
-- ♟️ I play chess competitively... against bots. I’m working on it.
-- 🧪 I enjoy writing tests, seriously.
-- 🏫 Finished my Bachelor's degree in less than 6 months.
+- 🏫 Finished my B.S. in Software Engineering in under 6 months
+- 🤖 Built a "Personal OS" repo with 10+ GitHub Actions automating my career (job search, resume generation, LinkedIn posts)
+- 🧪 I actually enjoy writing tests — Vitest is my jam
+- ♟️ Chess player... mostly against bots, but I'm improving
+- 🌲 When not coding, I'm probably outside touching grass
 
 
 ---
