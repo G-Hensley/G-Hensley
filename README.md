@@ -148,7 +148,7 @@
 ---
 
 ## GitHub Stats 📊
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Gavin's GitHub stats](https://github-readme-stats-eosin-sigma-kodeg5cn3l.vercel.app/api?username=G-Hensley)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
