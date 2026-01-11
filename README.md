@@ -9,9 +9,9 @@
 
 <div align='left'>
   <p align='left'>
-  👨‍💻 <b>Product Engineer at <a href="https://apisec.ai">APIsec</a></b> — Building API security solutions and handling 77% of customer integrations<br /><br />
-  🚀 <b>Founder of <a href="https://github.com/codaissance">Codaissance</a></b> — Building SaaS products in public with React, Next.js, and TypeScript<br /><br />
-  🛡️ <b>Co-Founder of TamperTantrum Labs</b> — Making application security accessible for solo devs and startups<br /><br />
+  👨‍💻 <b>Product Engineer at <a target="_blank" href="https://apisec.ai">APIsec</a></b> — Building API security solutions and handling 77% of customer integrations<br /><br />
+  🚀 <b>Founder of <a target="_blank" href="https://codaissance.com">Codaissance</a></b> — Building SaaS products in public with React, Next.js, and TypeScript<br /><br />
+  🛡️ <b>Co-Founder of <a target="_blank" href="https://tampertantrumlabs.com">TamperTantrum Labs</a></b> — Making application security accessible for solo devs and startups<br /><br />
   🎯 <b>What I do:</b> Build fast, accessible, secure web applications. I care about clean architecture, great UX, and shipping products that actually help people.
   </p>
 </div>
@@ -25,6 +25,7 @@
 | [🧠 MindTrace](https://github.com/G-Hensley/mindtrace) | Full-stack MVP for tracking student behavior logs with auth, CRUD, and report generation. 25+ unit tests, >95 Lighthouse scores. | Next.js, TypeScript, Supabase, Vitest, Turborepo |
 | [🌐 BuiltInPublic](https://github.com/Christin-paige/BuiltInPublic) | Social platform for devs to share their coding journey. Co-led backend, built 60% of UI components, improved load times 35%. | Next.js, TypeScript, Supabase, Docker, CI/CD |
 | [🎨 Portfolio](https://gavinhensley.dev) | Custom portfolio with AWS S3 file uploads, admin dashboard, and CI/CD. Modernized 3+ legacy projects, cut load times 30%. | React, TypeScript, Node.js, AWS S3, MongoDB |
+| [🛡️ TamperTantrum Labs](https://tampertantrumlabs.com) | Application security consulting website with products coming soon! | React, Node.js, Express, MongoDB |
 | [💰 Expense Tracker](https://github.com/G-Hensley/expense-tracker) | Full-stack expense tracking with GraphQL API. Designed for 500+ users, <2s load times, 45% reduction in data transfer. | Next.js, GraphQL, MongoDB, Vercel |
 
 
