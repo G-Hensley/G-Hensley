@@ -133,9 +133,9 @@
 
 - 🏫 Finished my B.S. in Software Engineering in under 6 months
 - 🤖 Built a "Personal OS" repo with 10+ GitHub Actions automating my career (job search, resume generation, LinkedIn posts)
-- 🧪 I actually enjoy writing tests — Vitest is my jam
-- ♟️ Chess player... mostly against bots, but I'm improving
-- 🌲 When not coding, I'm probably outside touching grass
+- 🧪 I actually enjoy writing tests, Vitest is my jam
+- ♟️ Chess player... not quite a master yet, but working on it
+- 🌲 When not coding, I'm probably hanging with my kiddos, reading, learning, or playing chess
 
 
 ---
