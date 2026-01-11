@@ -148,7 +148,7 @@
 ---
 
 ## GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-Hensley\&show_icons=true\&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
