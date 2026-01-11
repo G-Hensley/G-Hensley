@@ -7,6 +7,8 @@
 
 <h2 align='center'>What I Do 🖥️</h2>
 
+<p align='center'><b>Full-Stack Software Engineer with 4+ years of development experience</b></p>
+
 <div align='left'>
   <p width='50%' align='left'>🧱 Build responsive, high-performance websites and web apps with modern front-end frameworks.<br />
   🛠️ Develop full-stack solutions using JavaScript, TypeScript, Node.js/Express, Next.js, React, MongoDB, & SQL.<br />
@@ -93,11 +95,13 @@
 <h2 align='center'>📜 Certifications</h2>
 <p align='center'>
   <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" height="25">
-  <img src="https://img.shields.io/badge/freeCodeCamp%20Responsive%20Web%20Design-%23323330.svg?style=flat-square&logo=freecodecamp&logoColor=green " alt="freeCodeCamp Responsive Web Design" height="25">
-  <img src="https://img.shields.io/badge/freeCodeCamp%20JavaScript%20Algorithms%20and%20Data%20Structures-%23323330.svg?style=flat-square&logo=freecodecamp&logoColor=green" alt="freeCodeCamp JavaScript Algorithms" height="25">
-  <img src="https://img.shields.io/badge/freeCodeCamp%20Back%20End%20Development%20and%20APIs-%23323330.svg?style=flat-square&logo=freecodecamp&logoColor=green" alt="freeCodeCamp Back-End Development & APIs" height="25">
+  <img src="https://img.shields.io/badge/ITIL%20v4%20Foundation-%235C2D91.svg?style=flat-square&logo=itil&logoColor=white" alt="ITIL v4 Foundation" height="25">
   <img src="https://img.shields.io/badge/Project+-%23EE352b.svg?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA Project+" height="25">
   <img src="https://img.shields.io/badge/WGU%20Front%20End%20Developer-%2300204b.svg?style=flat-square&logo=wgu&logoColor=white" alt="WGU Front-End Developer" height="25">
+  <img src="https://img.shields.io/badge/WGU%20Back%20End%20Developer-%2300204b.svg?style=flat-square&logo=wgu&logoColor=white" alt="WGU Back-End Developer" height="25">
+  <img src="https://img.shields.io/badge/freeCodeCamp%20Responsive%20Web%20Design-%23323330.svg?style=flat-square&logo=freecodecamp&logoColor=green" alt="freeCodeCamp Responsive Web Design" height="25">
+  <img src="https://img.shields.io/badge/freeCodeCamp%20JavaScript%20Algorithms%20and%20Data%20Structures-%23323330.svg?style=flat-square&logo=freecodecamp&logoColor=green" alt="freeCodeCamp JavaScript Algorithms" height="25">
+  <img src="https://img.shields.io/badge/freeCodeCamp%20Back%20End%20Development%20and%20APIs-%23323330.svg?style=flat-square&logo=freecodecamp&logoColor=green" alt="freeCodeCamp Back-End Development & APIs" height="25">
 </p>
 
 ---
@@ -118,16 +122,16 @@
 
 ---
 
-## 🎯 2025 Goals & Mission
+## 🎯 2026 Goals & Mission
 
-- ✅ Land my first full-time software engineering role.
-- 🔨 Launch a SaaS side project or monetized tool.
-- 🌐 Contribute to 3+ open-source projects.
-- 📜 Earn more certs.
-- 🧪 Add full test coverage (Jest/Cypress) to all personal projects.
-- 🐋 Practice DevOps more.
-- ✍️ Start writing dev blogs on my site.
-- 🕴️Start my own freelancing business.
+- 🚀 Launch first revenue-generating SaaS product through Codaissance.
+- 💰 Build recurring revenue stream to supplement employment income.
+- 🌐 Contribute meaningfully to 3+ open-source projects.
+- 📜 Earn AWS Solutions Architect Associate certification.
+- 🧪 Achieve 80%+ test coverage across all active projects.
+- 🐋 Deploy production apps with Docker + CI/CD pipelines.
+- ✍️ Publish technical blog posts on personal site.
+- 🤝 Grow professional network to 5,000+ LinkedIn connections.
 
 ---
 
