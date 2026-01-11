@@ -147,11 +147,6 @@
 
 ---
 
-## GitHub Stats 📊
-[![Gavin's GitHub stats](https://github-readme-stats-eosin-sigma-kodeg5cn3l.vercel.app/api?username=G-Hensley)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 <div align="center">
   <h2>🐍 Contribution Snake</h2>
 
